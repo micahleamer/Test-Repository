@@ -1,0 +1,10 @@
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\bin\Debug\First_Github_Project.exe.config
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\bin\Debug\First_Github_Project.exe
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\bin\Debug\First_Github_Project.pdb
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.csprojAssemblyReference.cache
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.Form1.resources
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.Properties.Resources.resources
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.csproj.GenerateResource.cache
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.csproj.CoreCompileInputs.cache
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.exe
+C:\Users\micah\OneDrive\Desktop\Github\Test-Repository\First_Github_Project\First_Github_Project\obj\Debug\First_Github_Project.pdb
